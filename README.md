@@ -16,9 +16,6 @@ Other maps can be created by replacing images and re-setting coordinates.
 
 “レスポンシブウェブデザインで画像を縮小する方法”，小粋空間<https://www.elysium-global.com/ja/product/drawingvalidator/>. (参照2022/8/13)
 
-著者名 : “ウェブページの題名”. ウェブサイトの名称. 更新日付. 入手先, (入手日付)．
-内閣府編 : 交通安全白書. 平成 17 年版, 2005. http://www8.cao.go.jp/koutu/taisaku/index-t.html, (参照
-2006-03-07).
 ## 利用したリポジトリとコピーライト(Repositories used and their copyrights)
 [stowball](https://github.com/stowball) / [jQuery-rwdImageMaps](https://github.com/stowball/jQuery-rwdImageMaps)
 
